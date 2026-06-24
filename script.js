@@ -5,8 +5,8 @@ let isCheckingPair = false
 let gameOver = false
 
 const cardItems = [
-    { id: 1, content: "🥸", matched: false},
-    { id: 2, content: "🥸", matched: false},
+    { id: 1, content: "🤡", matched: false},
+    { id: 2, content: "🤡", matched: false},
     { id: 3, content: "🧐", matched: false},
     { id: 4, content: "🧐", matched: false},
     { id: 5, content: "😎", matched: false},
